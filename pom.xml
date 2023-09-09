@@ -5,7 +5,7 @@
 	<artifactId>jpa_session02x</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>ciberfarma</name>
-	<description>Integración JPA con Maven Controlado con git</description>
+	<description>Integración JPA con Maven Controlado con git versión alter</description>
 	<dependencies>
 		<!-- https://mvnrepository.com/artifact/mysql/mysql-connector-java -->
 		<dependency>
